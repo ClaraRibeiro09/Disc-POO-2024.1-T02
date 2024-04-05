@@ -2,7 +2,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Listas de Exercícios da disciplina de Programação Orientada a Objetos
 
-- [Lista 02](https://github.com/ClaraRibeiro09/Disc-POO-2024.1-T02/tree/main/CAP-03):TODOS os Exercícios Resolvidos e 10 Exercícios Propostos (sorteados aleatoriamente). <br>
+- [Lista 02](https://github.com/ClaraRibeiro09/Disc-POO-2024.1-T02/tree/main/): TODOS os Exercícios Resolvidos e 10 Exercícios Propostos (sorteados aleatoriamente). <br>
  • Cap. 04 (Estrutura condicional) e Cap. 05 (Estrutura de repetição) 
 
 ##  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Equipe:
@@ -14,4 +14,4 @@
 - Roger Moura Sarmento.
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Linguagem utilizada:
-- Java.# Disc-POO-2024.1-T02
+- Java.
